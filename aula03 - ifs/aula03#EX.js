@@ -6,7 +6,7 @@ Utilizando IF/ELSE,
 
 */
 
-const habitantes = 60000
+const habitantes = 600000
 
 if (habitantes > 300000){
     console.log(`A sua cidade é GRANDE! Possui ${habitantes} habitantes!`)
